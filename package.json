@@ -1,0 +1,19 @@
+{
+  "name": "corner3",
+  "version": "1.0.0",
+  "description": "Corner3 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talalelagha21/Corner-3.git"
+  },
+  "author": "Talal Elagha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talalelagha21/Corner-3/issues"
+  },
+  "homepage": "https://github.com/Talalelagha21/Corner-3#readme"
+}
